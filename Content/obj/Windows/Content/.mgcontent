@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/ShipTexture.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/RocketTexture.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/AssteroidTexture.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/Text.spritefont</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/MenuButton.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/ExitButton.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/LevelModeButton.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/RecordsButton.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/StartButton.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/EasyLevelButton.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/MiddleLevelButton.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/HardLevelButton.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/BigAsteroidTexture.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/FastAsteroidTexture.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/Text2.spritefont</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/PvpButton.png</File>
+    <File>C:/Users/Evgeny/source/repos/SpaceWarsMono/Content/BackButton.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Юзер/source/repos/SpaceWarsMono/Content/Text.spritefont</SourceFile>
+  <SourceTime>2021-06-06T20:04:50.8532706+03:00</SourceTime>
+  <DestFile>C:/Users/Юзер/source/repos/SpaceWarsMono/Content/bin/Windows/Text.xnb</DestFile>
+  <DestTime>2021-06-07T00:43:27.5773081+03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T20:14:44+03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T20:14:44+03:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
